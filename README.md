@@ -1,7 +1,10 @@
 # Introduction to scRNA-seq Integration
 
 ## Overview
+
 This project demonstrates a complete single-cell RNA-seq (scRNA-seq) integration pipeline applied to colorectal cancer immune cells, using the Harmony algorithm for batch correction. The analysis integrates data from two independent cohorts (Korean SMC and Belgian KUL datasets) to identify and annotate immune cell populations across 29 patient samples.
+The analysis can be found here https://htmlpreview.github.io/?https://github.com/parulkuls26/scRNAseq-batch-integration-harmony/blob/main/session2_harmony_2026(1).html
+
 
 ## Dataset
 Data is sourced from:
